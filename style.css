@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: brown;
+    text-underline-position: below;
+    
+}
+img{
+    border-image-width: 25px;
+    width: 120px;
+    margin-left: 75%;
+}
+h3{
+    text-underline-position: below;
+    
+}
+.body{
+   background-image: url("lama2.jpg"); 
+   opacity: 50px;
+}
